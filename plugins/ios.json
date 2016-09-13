@@ -1,0 +1,18 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "cordova-plugin-indexappcontent": {
+            "PACKAGE_NAME": "us.eidinger.cordova.spotlightPoc"
+        },
+        "cordova-plugin-whitelist": {
+            "PACKAGE_NAME": "us.eidinger.cordova.spotlightPoc"
+        }
+    },
+    "dependent_plugins": {}
+}
